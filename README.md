@@ -19,5 +19,5 @@ This repo contains a collection of research papers I have read and enjoyed, and 
 |[StarCoder: may the source be with you!](https://arxiv.org/abs/2305.06161) | Classic CodeLLM paper by BigCode. The goal is to create a CodeLLM which is publically available.|✅|
 |[Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | Original GPT paper. Not much needs to be said. |✅|
 |[Attention Is All You Need](https://arxiv.org/abs/1706.03762) | The paper which started it all. Introduced the Transformer Architecture and the rest is history. |❌|
-
+|[Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/pdf/1508.04025.pdf)|Explains attention quite well in the context of recurrent neurel networks.|✅|
 
