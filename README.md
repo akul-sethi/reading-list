@@ -21,4 +21,7 @@ This repo contains a collection of research papers I have read and enjoyed, and 
 |[Attention Is All You Need](https://arxiv.org/abs/1706.03762) | The paper which started it all. Introduced the Transformer Architecture and the rest is history. |❌|
 |[Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/pdf/1508.04025.pdf)|Explains attention quite well in the context of recurrent neurel networks.|✅|
 |[Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)|Good resource for coding and understanding attention.|
+|[The Building Blocks of Interprtability](https://distill.pub/2018/building-blocks/)| Explains the fundementals of interp. Very interesting read.|✅|
+|[Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/)|Brief explanation on circuits.|✅|
+|[A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf)|Yann Lecun's vision on AI in the future. Introduces Joint-Embedding Predictive Architecture. |✅|
 
