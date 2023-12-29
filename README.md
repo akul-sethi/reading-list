@@ -24,4 +24,5 @@ This repo contains a collection of research papers I have read and enjoyed, and 
 |[The Building Blocks of Interprtability](https://distill.pub/2018/building-blocks/)| Explains the fundementals of interp. Very interesting read.|✅|
 |[Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/)|Brief explanation on circuits.|✅|
 |[A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf)|Yann Lecun's vision on AI in the future. Introduces Joint-Embedding Predictive Architecture. |✅|
+|[Metallaxis-FL: Mutation-based Fault Localization](http://pages.cs.aueb.gr/~mpapad/papers/STVR2013.pdf)| Discoverying the location of faults through the use of mutations. Allows for evaluating thoroughness of test suite while localizing faults at the same time.|✅|
 
